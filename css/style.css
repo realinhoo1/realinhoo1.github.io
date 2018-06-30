@@ -148,7 +148,8 @@ font-size: 24px;
 }
 .header-button:hover{
     color:#fff;
-    background-color: #2c2424;
+    background-color: #402c84;
+    box-shadow: none;
 }
 .footer-button:hover{
     color:#000;
