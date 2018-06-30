@@ -146,6 +146,15 @@ font-size: 24px;
 .header-button-block {
     border:none;
 }
+.header-button:hover{
+    color:#fff;
+    background-color: #2c2424;
+}
+.footer-button:hover{
+    color:#000;
+    background-color: #e9e3f0;
+    
+    
 @media(max-width: 1200px){
     .header-pretitle {
     margin-top: 60px;
